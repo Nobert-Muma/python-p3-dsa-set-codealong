@@ -1,4 +1,4 @@
-# Set Data Structure Code Along
+# Set Data Structure Code Along.
 
 ## Learning Goals
 
